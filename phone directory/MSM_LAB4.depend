@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1684079209 source:/home/mohamed/Desktop/Data structure/Labs/lab4/MSM_LAB4/main.cpp
+	<iostream>
+	"PD/phonedirectory.h"
+	"bst/binarysearchtree.h"
+	"pls/positionlistutils.h"
+	<string>
+	<strings.h>
+
+1684068611 source:/home/mohamed/Desktop/Data structure/Labs/lab4/MSM_LAB4/bst/binarysearchtree.cpp
+	"binarysearchtree.h"
+
+1684068617 /home/mohamed/Desktop/Data structure/Labs/lab4/MSM_LAB4/bst/binarysearchtree.h
+	<iostream>
+	<list>
+	<queue>
+	<string>
+
+1684082874 source:/home/mohamed/Desktop/Data structure/Labs/lab4/MSM_LAB4/PD/phonedirectory.cpp
+	"phonedirectory.h"
+	"../bst/binarysearchtree.h"
+	<list>
+	<queue>
+	<string>
+	<cstring>
+
+1684082939 /home/mohamed/Desktop/Data structure/Labs/lab4/MSM_LAB4/PD/phonedirectory.h
+	<string>
+	"../bst/binarysearchtree.h"
+	<list>
+	<queue>
+	<string>
+
+1684077243 /home/mohamed/Desktop/Data structure/Labs/lab4/MSM_LAB4/pls/positionlistutils.h
+	<iostream>
+	"../PD/phonedirectory.h"
+
+1684079235 source:/home/mohamed/Desktop/Data structure/Labs/lab4/MSM_LAB4/pls/positionlistutils.cpp
+	"positionlistutils.h"
+

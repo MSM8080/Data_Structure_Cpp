@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1584205420 source:f:\teaching\ds_content\ds_content\ds_lab\lab1\matrix\matrix\main.cpp
+	<iostream>
+
+1676951990 source:f:\teaching\ds_content\ds_content\ds_lab\lab1\matrix\matrix\src\matrix.cpp
+	"matrix.h"
+
+1676952186 f:\teaching\ds_content\ds_content\ds_lab\lab1\matrix\matrix\include\matrix.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<cmath>
+
+1678201592 source:h:\2nd term\lab\data structure lab\lab1\matrix\main.cpp
+	<iostream>
+	"matrix.h"
+
+1678193048 h:\2nd term\lab\data structure lab\lab1\matrix\include\matrix.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<cmath>
+
+1678201704 source:h:\2nd term\lab\data structure lab\lab1\matrix\src\matrix.cpp
+	"matrix.h"
+	<cmath>
+	<ctime>
+
+1683443658 source:h:\2nd term\lab\data structure lab\lab1 (^)\mohamed saber mohamed (section 2)\src\matrix.cpp
+	"matrix.h"
+	<cmath>
+	<ctime>
+
+1683443755 h:\2nd term\lab\data structure lab\lab1 (^)\mohamed saber mohamed (section 2)\include\matrix.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<sstream>
+	<cmath>
+
+1683443709 source:h:\2nd term\lab\data structure lab\lab1 (^)\mohamed saber mohamed (section 2)\main.cpp
+	<iostream>
+	"matrix.h"
+
