@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1683453960 source:h:\2nd term\data structure\sections\sec10\msm_sec_10\main.cpp
+	<iostream>
+	"ListPriorityQueue.h"
+	"process.h"
+	"vector2d.h"
+	<list>
+
+1683453994 h:\2nd term\data structure\sections\sec10\msm_sec_10\listpriorityqueue.h
+	<iostream>
+	"list"
+	"process.h"
+	"vector2d.h"
+
+1683449543 source:h:\2nd term\data structure\sections\sec10\msm_sec_10\process.cpp
+	"process.h"
+
+1651729722 h:\2nd term\data structure\sections\sec10\msm_sec_10\process.h
+	<iostream>
+	<string>
+
+1651749554 source:h:\2nd term\data structure\sections\sec10\msm_sec_10\vector2d.cpp
+	"vector2d.h"
+	<cmath>
+	<cstdlib>
+
+1683453931 h:\2nd term\data structure\sections\sec10\msm_sec_10\vector2d.h
+	<cmath>
+	<cstdlib>
+
