@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681032775 source:h:\2nd term\data structure\sections\sheet 8\linkedbinarytree.cpp
+	"LinkedBinaryTree.h"
+
+1651902408 h:\2nd term\data structure\sections\sheet 8\linkedbinarytree.h
+	<iostream>
+	<list>
+	<stdlib.h>
+
+1681032792 source:h:\2nd term\data structure\sections\sheet 8\msm_8\main.cpp
+	<iostream>
+	"../LinkedBinaryTree.h"
+
