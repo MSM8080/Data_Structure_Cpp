@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1679824055 source:h:\2nd term\data structure\sections\sheet 6 list\nodelist\nodelist.cpp
+	"NodeList.h"
+	<iostream>
+
+1679825425 h:\2nd term\data structure\sections\sheet 6 list\nodelist\nodelist.h
+
+1679825300 source:h:\2nd term\data structure\sections\sheet 6 list\msm_sec6\main.cpp
+	<iostream>
+	"../NodeList/NodeList.h"
+
+1679825682 source:h:\2nd term\data structure\sections\sec6\nodelist\nodelist.cpp
+	"NodeList.h"
+	<iostream>
+
+1679825425 h:\2nd term\data structure\sections\sec6\nodelist\nodelist.h
+
+1679825300 source:h:\2nd term\data structure\sections\sec6\msm_sec6\main.cpp
+	<iostream>
+	"../NodeList/NodeList.h"
+
