@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1622268202 source:h:\2nd term\data structure\sections\sec9\bst\basic_graphics.cpp
+	"basic_graphics.h"
+
+1622268084 h:\2nd term\data structure\sections\sec9\bst\basic_graphics.h
+	<iostream>
+	"windows.h"
+	<conio.h>
+
+1682937787 source:h:\2nd term\data structure\sections\sec9\bst\binarysearchtree.cpp
+	"binarysearchtree.h"
+
+1652771634 h:\2nd term\data structure\sections\sec9\bst\binarysearchtree.h
+	<iostream>
+	<list>
+	<queue>
+
+1682937787 source:h:\2nd term\data structure\sections\sec9\msm_9\main.cpp
+	<iostream>
+	"../bst/basic_graphics.h"
+	"../bst/binarysearchtree.h"
+	<iomanip>
+
