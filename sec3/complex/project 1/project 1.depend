@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678024433 source:h:\2nd term\data structure\sections\sec3\sheet 3\complex\project 1\main.cpp
+	<iostream>
+	"../complex.h"
+
+1678024819 h:\2nd term\data structure\sections\sec3\sheet 3\complex\complex.h
+	<iostream>
+
+1678024938 source:h:\2nd term\data structure\sections\sec3\sheet 3\complex\complex.cpp
+	"complex.h"
+	<math.h>
+

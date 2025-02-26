@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678027177 source:h:\2nd term\data structure\sections\sec3\sheet 3\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1678027128 h:\2nd term\data structure\sections\sec3\sheet 3\stack\stack.h
+	"runtimeexception.h"
+
+1678026525 h:\2nd term\data structure\sections\sec3\sheet 3\stack\runtimeexception.h
+	<string>
+
