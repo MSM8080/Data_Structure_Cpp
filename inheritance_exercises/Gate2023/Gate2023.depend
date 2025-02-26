@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1677417870 source:h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\main.cpp
+	"And.h"
+	"Or.h"
+	"Not.h"
+	"Xor.h"
+	"FullAdder.h"
+
+1677398488 h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\include\and.h
+	"Gate.h"
+
+1677416939 h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\include\gate.h
+	<iostream>
+
+1677398532 h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\include\or.h
+	"Gate.h"
+
+1677416949 h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\include\not.h
+	"Gate.h"
+
+1677398540 h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\include\xor.h
+	"Gate.h"
+
+1677398498 h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\include\fulladder.h
+	"Gate.h"
+
+1677417770 source:h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\src\and.cpp
+	"And.h"
+
+1677419116 source:h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\src\fulladder.cpp
+	"FullAdder.h"
+
+1677415718 source:h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\src\gate.cpp
+	"Gate.h"
+
+1677417490 source:h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\src\not.cpp
+	"Not.h"
+
+1677419022 source:h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\src\or.cpp
+	"Or.h"
+
+1677418372 source:h:\2nd term\data structure\sections\sheet_2_inheritance\gate2023\src\xor.cpp
+	"Xor.h"
+
