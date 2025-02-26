@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1680481199 source:h:\2nd term\lab\data structure lab\lab2 (^)\msm_lab_2\main.cpp
+	<iostream>
+	"node.h"
+	"polynomial.h"
+
+1680007179 h:\2nd term\lab\data structure lab\lab2 (^)\msm_lab_2\node.h
+	<stdio.h>
+	<stdlib.h>
+
+1680199817 h:\2nd term\lab\data structure lab\lab2 (^)\msm_lab_2\polynomial.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	"node.h"
+
+1680481314 source:h:\2nd term\lab\data structure lab\lab2 (^)\msm_lab_2\polynomial.cpp
+	<math.h>
+	"polynomial.h"
+	"node.h"
+
