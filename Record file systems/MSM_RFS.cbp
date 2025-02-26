@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MSM_RFS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MSM_RFS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MSM_RFS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="/usr/include" />
+		</Compiler>
+		<Linker>
+			<Add library="ncurses" />
+			<Add directory="/usr/include" />
+		</Linker>
+		<Unit filename="CBOOK_CLASS.cpp" />
+		<Unit filename="CBOOK_CLASS.h" />
+		<Unit filename="CLIBRARY_CLASS.cpp" />
+		<Unit filename="CLIBRARY_CLASS.h" />
+		<Unit filename="CSCHOOL_CLASS.cpp" />
+		<Unit filename="CSCHOOL_CLASS.h" />
+		<Unit filename="CSTUDENT_CLASS.cpp" />
+		<Unit filename="CSTUDENT_CLASS.h" />
+		<Unit filename="RECORD_CLASS.cpp" />
+		<Unit filename="RECORD_CLASS.h" />
+		<Unit filename="RFS_CLASS.cpp" />
+		<Unit filename="RFS_CLASS.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

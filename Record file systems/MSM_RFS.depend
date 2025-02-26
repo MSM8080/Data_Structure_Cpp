@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1683098450 source:/home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/main.cpp
+	<curses.h>
+	"RFS_CLASS.h"
+	"CSTUDENT_CLASS.h"
+	"CSCHOOL_CLASS.h"
+
+1683052947 source:/home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/RECORD_CLASS.cpp
+	"RECORD_CLASS.h"
+
+1683052848 /home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/RECORD_CLASS.h
+
+1683053933 source:/home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/RFS_CLASS.cpp
+	"RFS_CLASS.h"
+
+1683056027 /home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/RFS_CLASS.h
+	<iostream>
+	<fstream>
+	"RECORD_CLASS.h"
+
+1683057228 source:/home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/CSTUDENT_CLASS.cpp
+	"CSTUDENT_CLASS.h"
+	<cstring>
+
+1683054159 /home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/CSTUDENT_CLASS.h
+	"RFS_CLASS.h"
+
+1683057255 source:/home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/CSCHOOL_CLASS.cpp
+	"CSCHOOL_CLASS.h"
+	"CSTUDENT_CLASS.h"
+	"RFS_CLASS.h"
+	<cstring>
+
+1683054590 /home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/CSCHOOL_CLASS.h
+	"RFS_CLASS.h"
+
+1582701266 /usr/include/curses.h
+	<ncurses_dll.h>
+	<stdint.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<unctrl.h>
+
+1582701266 /usr/include/ncurses_dll.h
+
+1649294681 /usr/include/stdint.h
+	<bits/libc-header-start.h>
+	<bits/types.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+	<bits/stdint-intn.h>
+	<bits/stdint-uintn.h>
+
+1649294681 /usr/include/stdio.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<stdarg.h>
+	<bits/types.h>
+	<bits/types/__fpos_t.h>
+	<bits/types/__fpos64_t.h>
+	<bits/types/__FILE.h>
+	<bits/types/FILE.h>
+	<bits/types/struct_FILE.h>
+	<bits/types/cookie_io_functions_t.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<bits/getopt_posix.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1649294681 /usr/include/wchar.h
+	<bits/libc-header-start.h>
+	<bits/floatn.h>
+	<stddef.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<bits/types/wint_t.h>
+	<bits/types/mbstate_t.h>
+	<bits/types/__FILE.h>
+	<bits/types/FILE.h>
+	<bits/types/locale_t.h>
+	<bits/wctype-wchar.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1582701266 /usr/include/unctrl.h
+	<curses.h>
+
+1683101467 source:/home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/CBOOK_CLASS.cpp
+	"CBOOK_CLASS.h"
+	<cstring>
+
+1683101459 /home/mohamed/Desktop/Data structure/Labs/Lab3/MSM_RFS/CBOOK_CLASS.h
+	"RFS_CLASS.h"
+
